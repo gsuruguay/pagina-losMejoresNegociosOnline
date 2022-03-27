@@ -6,7 +6,6 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<!-- <link rel="pingback" href="https://www.elegantthemes.com/layouts/xmlrpc.php" /> -->
 
 	<script type="text/javascript">
 		document.documentElement.className = 'js';
@@ -289,21 +288,13 @@
 	</style>
 
 	<title>Obtén tu propio sitio web</title>
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Digital Product Landing - Elegant Themes" />
-	<meta property="og:url"
-		content="https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo" />
-	<meta property="og:site_name" content="Elegant Themes" />
+	<meta property="og:title" content="Los mejores negocios online" />
+	<!-- en este poner la url del dominio que se suba -->
+	<!-- <meta property="og:url"
+		content="https://...." /> -->
+		<meta property="og:site_name" content="Los mejores negocios online" />
 
-<!-- 	<meta property="article:publisher" content="https://www.facebook.com/elegantthemes" /> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-
-<!-- 	<meta property="article:modified_time" content="2020-02-20T18:47:31+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@elegantthemes" />
-	<meta name="twitter:label1" content="Est. reading time" />
-	<meta name="twitter:data1" content="74 minutes" /> -->
 
 	<!-- <script type="application/ld+json"
 		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.elegantthemes.com/layouts/#website","url":"https://www.elegantthemes.com/layouts/","name":"Elegant Themes","description":"Free Divi Layouts &amp; Layout Packs Designed by Elegant Themes.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.elegantthemes.com/layouts/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#webpage","url":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo","name":"Digital Product Landing - Elegant Themes","isPartOf":{"@id":"https://www.elegantthemes.com/layouts/#website"},"datePublished":"2018-11-30T03:23:55+00:00","dateModified":"2020-02-20T18:47:31+00:00","breadcrumb":{"@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo"]}]},{"@type":"BreadcrumbList","@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.elegantthemes.com/layouts"},{"@type":"ListItem","position":2,"name":"Digital Product Landing"}]}]}</script>
@@ -315,10 +306,10 @@
 		href="https://www.elegantthemes.com/layouts/comments/feed" />
 	<meta content="Divi v.4.14.9" name="generator" />
 	<link rel='stylesheet' id='wc-blocks-vendors-style-css'
-		href='../../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-stylee1b2.css?ver=6.9.0'
+		href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-stylee1b2.css?ver=6.9.0'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='wc-blocks-style-css'
-		href='../../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-stylee1b2.css?ver=6.9.0'
+		href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-stylee1b2.css?ver=6.9.0'
 		type='text/css' media='all' /> -->
 
 	<style id='global-styles-inline-css' type='text/css'>
@@ -571,13 +562,13 @@
 	</style>
 
 <!-- 	<link rel='stylesheet' id='woocommerce-layout-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b30.css?ver=6.3.1' type='text/css'
+		href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b30.css?ver=6.3.1' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='woocommerce-smallscreen-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b30.css?ver=6.3.1' type='text/css'
+		href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b30.css?ver=6.3.1' type='text/css'
 		media='only screen and (max-width: 768px)' /> -->
 <!-- 	<link rel='stylesheet' id='woocommerce-general-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce9b30.css?ver=6.3.1' type='text/css'
+		href='wp-content/plugins/woocommerce/assets/css/woocommerce9b30.css?ver=6.3.1' type='text/css'
 		media='all' />
 	<style id='woocommerce-inline-inline-css' type='text/css'>
 		.woocommerce form .form-row .required {
@@ -585,11 +576,11 @@
 		}
 	</style> -->
 
-	<link rel='stylesheet' id='divi-style-css' href='../../wp-content/themes/Divi/style-static.min438e.css?ver=4.14.9'
+	<link rel='stylesheet' id='divi-style-css' href='wp-content/themes/Divi/style-static.min438e.css?ver=4.14.9'
 		type='text/css' media='all' />
-	<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
+	<script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
 		id='jquery-core-js'></script>
-	<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
+	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
 		id='jquery-migrate-js'></script>
 
 	<!-- <link rel="https://api.w.org/" href="https://www.elegantthemes.com/layouts/wp-json/" /> -->
@@ -621,9 +612,9 @@
 		</style>
 	</noscript> -->
 
-	<link rel="icon" href="../../wp-content/uploads/2017/12/logo.png" sizes="32x32" />
-	<link rel="icon" href="../../wp-content/uploads/2017/12/logo.png" sizes="192x192" />
-	<link rel="apple-touch-icon" href="../../wp-content/uploads/2017/12/logo.png" />
+	<link rel="icon" href="wp-content/uploads/2017/12/logo.png" sizes="32x32" />
+	<link rel="icon" href="wp-content/uploads/2017/12/logo.png" sizes="192x192" />
+	<link rel="apple-touch-icon" href="wp-content/uploads/2017/12/logo.png" />
 
 	<!-- <meta name="msapplication-TileImage"
 		content="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" /> -->
@@ -831,7 +822,7 @@
 		</header>
 		-->
 
-style.min6dcf
+
 		<div id="et-main-area">
 			<div id="main-content">
 				<article id="post-216787" class="post-216787 page type-page status-publish hentry">
@@ -842,7 +833,7 @@ style.min6dcf
 									class="et_pb_section et_pb_section_0 et_pb_section_parallax et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
 									<div class="et_parallax_bg_wrap">
 										<div class="et_parallax_bg"
-											style="background-image: url(../../wp-content/uploads/2018/11/software-06.png);">
+											style="background-image: url(wp-content/uploads/2018/11/software-06.png);">
 										</div>
 									</div>
 									<div class="et_pb_row et_pb_row_0">
@@ -872,7 +863,7 @@ style.min6dcf
 											class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 											<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
 												<span class="et_pb_image_wrap "><img width="2560" height="1168"
-														src="../../wp-content/uploads/2018/11/software-11-1.png" alt=""
+														src="wp-content/uploads/2018/11/software-11-1.png" alt=""
 														title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-11-1.png 2560w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-11-1-254x116.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-11-1-533x243.png 533w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-11-1-510x233.png 510w"
 														sizes="(max-width: 2560px) 100vw, 2560px"
@@ -904,7 +895,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="400" height="400"
-																src="../../wp-content/uploads/2018/11/software-19.png"
+																src="wp-content/uploads/2018/11/software-19.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-19.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-19-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-19-100x100.png 100w"
 																sizes="(max-width: 400px) 100vw, 400px"
@@ -927,7 +918,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="400" height="400"
-																src="../../wp-content/uploads/2018/11/software-20.png"
+																src="wp-content/uploads/2018/11/software-20.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-20.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-20-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-20-100x100.png 100w"
 																sizes="(max-width: 400px) 100vw, 400px"
@@ -950,7 +941,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="400" height="400"
-																src="../../wp-content/uploads/2018/11/software-18.png"
+																src="wp-content/uploads/2018/11/software-18.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-18.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-18-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-18-100x100.png 100w"
 																sizes="(max-width: 400px) 100vw, 400px"
@@ -974,7 +965,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="400" height="400"
-																src="../../wp-content/uploads/2018/11/software-21.png"
+																src="wp-content/uploads/2018/11/software-21.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-21.png 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-21-254x254.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-21-100x100.png 100w"
 																sizes="(max-width: 400px) 100vw, 400px"
@@ -1017,7 +1008,7 @@ style.min6dcf
 														src="https://www.youtube.com/embed/FkQuawiGWUw?feature=oembed"
 														allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 														allowfullscreen></iframe></div>
-												<div style="background-image:url(../../wp-content/uploads/2018/07/tech-03.jpg)"
+												<div style="background-image:url(wp-content/uploads/2018/07/tech-03.jpg)"
 													class="et_pb_video_overlay">
 													<div class="et_pb_video_overlay_hover"><a href="#"
 															class="et_pb_video_play"></a></div>
@@ -1035,7 +1026,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint">
 												<span class="et_pb_image_wrap "><img loading="lazy" width="802"
 														height="816"
-														src="../../wp-content/uploads/2018/11/software-23.png" alt=""
+														src="wp-content/uploads/2018/11/software-23.png" alt=""
 														title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-23.png 802w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-23-254x258.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-23-533x542.png 533w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-23-510x519.png 510w"
 														sizes="(max-width: 802px) 100vw, 802px"
@@ -1083,7 +1074,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-25.png"
+																src="wp-content/uploads/2018/11/software-25.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-25.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-25-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1104,7 +1095,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-24.png"
+																src="wp-content/uploads/2018/11/software-24.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-24.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-24-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1125,7 +1116,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-28.png"
+																src="wp-content/uploads/2018/11/software-28.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-28.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-28-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1146,7 +1137,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-29.png"
+																src="wp-content/uploads/2018/11/software-29.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-29.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-29-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1169,7 +1160,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-30.png"
+																src="wp-content/uploads/2018/11/software-30.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-30.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-30-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1190,7 +1181,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-26.png"
+																src="wp-content/uploads/2018/11/software-26.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-26.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-26-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1210,7 +1201,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-31.png"
+																src="wp-content/uploads/2018/11/software-31.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-31.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-31-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1230,7 +1221,7 @@ style.min6dcf
 													<div class="et_pb_main_blurb_image"><span
 															class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img
 																loading="lazy" width="160" height="160"
-																src="../../wp-content/uploads/2018/11/software-27.png"
+																src="wp-content/uploads/2018/11/software-27.png"
 																alt=""
 																srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-27.png 160w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-27-100x100.png 100w"
 																sizes="(max-width: 160px) 100vw, 160px"
@@ -1315,7 +1306,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_2 et_animated et-waypoint">
 												<span class="et_pb_image_wrap "><img loading="lazy" width="400"
 														height="400"
-														src="../../wp-content/uploads/2018/03/portrait-square-04.jpg"
+														src="wp-content/uploads/2018/03/portrait-square-04.jpg"
 														alt="" title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-04.jpg 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-04-254x254.jpg 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-04-100x100.jpg 100w"
 														sizes="(max-width: 400px) 100vw, 400px"
@@ -1344,7 +1335,7 @@ style.min6dcf
 												class="et_pb_with_border et_pb_module et_pb_image et_pb_image_3 et_animated et_hover_enabled et-waypoint">
 												<span class="et_pb_image_wrap "><img loading="lazy" width="400"
 														height="400"
-														src="../../wp-content/uploads/2018/03/portrait-square-11.jpg"
+														src="wp-content/uploads/2018/03/portrait-square-11.jpg"
 														alt="" title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-11.jpg 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-11-254x254.jpg 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-11-100x100.jpg 100w"
 														sizes="(max-width: 400px) 100vw, 400px"
@@ -1380,7 +1371,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_4 et_animated et-waypoint">
 												<span class="et_pb_image_wrap "><img loading="lazy" width="400"
 														height="400"
-														src="../../wp-content/uploads/2018/03/portrait-square-06.jpg"
+														src="wp-content/uploads/2018/03/portrait-square-06.jpg"
 														alt="" title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-06.jpg 400w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-06-254x254.jpg 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/03/portrait-square-06-100x100.jpg 100w"
 														sizes="(max-width: 400px) 100vw, 400px"
@@ -1445,7 +1436,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_5 et_animated et-waypoint">
 												<span class="et_pb_image_wrap "><img loading="lazy" width="2560"
 														height="870"
-														src="../../wp-content/uploads/2018/11/software-15.png" alt=""
+														src="wp-content/uploads/2018/11/software-15.png" alt=""
 														title=""
 														srcset="https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-15.png 2560w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-15-254x86.png 254w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-15-533x181.png 533w, https://www.elegantthemes.com/layouts/wp-content/uploads/2018/11/software-15-510x173.png 510w"
 														sizes="(max-width: 2560px) 100vw, 2560px"
@@ -1578,7 +1569,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_6 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_07-1-3.png"
+															src="wp-content/uploads/2018/11/logo_07-1-3.png"
 															alt="" title="" class="wp-image-216774" /></span></a>
 											</div>
 										</div>
@@ -1588,7 +1579,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_7 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_08-1-3.png"
+															src="wp-content/uploads/2018/11/logo_08-1-3.png"
 															alt="" title="" class="wp-image-216775" /></span></a>
 											</div>
 										</div>
@@ -1597,7 +1588,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_8 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_05-2-3.png"
+															src="wp-content/uploads/2018/11/logo_05-2-3.png"
 															alt="" title="" class="wp-image-216776" /></span></a>
 											</div>
 										</div>
@@ -1606,7 +1597,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_9 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_03-2-3.png"
+															src="wp-content/uploads/2018/11/logo_03-2-3.png"
 															alt="" title="" class="wp-image-216777" /></span></a>
 											</div>
 										</div>
@@ -1615,7 +1606,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_10 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_01-2-2.png"
+															src="wp-content/uploads/2018/11/logo_01-2-2.png"
 															alt="" title="" class="wp-image-216778" /></span></a>
 											</div>
 										</div>
@@ -1624,7 +1615,7 @@ style.min6dcf
 											<div class="et_pb_module et_pb_image et_pb_image_11 et_hover_enabled">
 												<a href="#"><span class="et_pb_image_wrap "><img loading="lazy"
 															width="170" height="75"
-															src="../../wp-content/uploads/2018/11/logo_02-1-1.png"
+															src="wp-content/uploads/2018/11/logo_02-1-1.png"
 															alt="" title="" class="wp-image-216779" /></span></a>
 											</div>
 										</div>
@@ -1681,8 +1672,10 @@ style.min6dcf
 								</a>
 							</li>
 						</ul> -->
-						<p id="footer-info">Diseñado por <a href="https://www.elegantthemes.com/"
-								title="Premium WordPress Themes">Gsuru Developments</a></p>
+						<p id="footer-info">Diseñado por <a href="#"
+								>Gsuru Developments</a></p>
+						<!-- <p id="footer-info">Diseñado por <a href="https://www.elegantthemes.com/"
+								>Gsuru Developments</a></p> -->
 					</div>
 				</div>
 			</footer>
@@ -2146,11 +2139,11 @@ style.min6dcf
 	</script> -->
 
 	<!-- <link rel='stylesheet' id='wp-block-library-css'
-		href='../../wp-includes/css/dist/block-library/style.min6dcf.css?ver=5.9.2' type='text/css' media='none'
+		href='wp-includes/css/dist/block-library/style.min6dcf.css?ver=5.9.2' type='text/css' media='none'
 		onload="media='all'" /> -->
 
 	<!-- <script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minfada.js?ver=2.7.0-wc.6.3.1'
+		src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minfada.js?ver=2.7.0-wc.6.3.1'
 		id='jquery-blockui-js'></script>
 		 -->
 
@@ -2161,11 +2154,11 @@ style.min6dcf
 	</script> -->
 
 	<!-- <script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b30.js?ver=6.3.1'
+		src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b30.js?ver=6.3.1'
 		id='wc-add-to-cart-js'></script> -->
 
 	<!-- <script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min07f2.js?ver=2.1.4-wc.6.3.1'
+		src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min07f2.js?ver=2.1.4-wc.6.3.1'
 		id='js-cookie-js'></script> -->
 
 	<!-- <script type='text/javascript' id='woocommerce-js-extra'>
@@ -2175,7 +2168,7 @@ style.min6dcf
 	</script> -->
 
 	<!-- <script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b30.js?ver=6.3.1'
+		src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b30.js?ver=6.3.1'
 		id='woocommerce-js'></script> -->
 
 <!-- 	<script type='text/javascript' id='wc-cart-fragments-js-extra'>
@@ -2185,7 +2178,7 @@ style.min6dcf
 	</script> -->
 
 	<!-- <script type='text/javascript'
-		src='../../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min9b30.js?ver=6.3.1'
+		src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min9b30.js?ver=6.3.1'
 		id='wc-cart-fragments-js'></script> -->
 
 
@@ -2201,20 +2194,20 @@ style.min6dcf
 	</script>
 	
 	
-	<script type='text/javascript' src='../../wp-content/themes/Divi/js/scripts.min438e.js?ver=4.14.9'
+	<script type='text/javascript' src='wp-content/themes/Divi/js/scripts.min438e.js?ver=4.14.9'
 		id='divi-custom-script-js'></script>
 
 		<!-- ESTE LO BORRE EN OTRO NO ESTOY SEGURO -->
-<!-- 	<script type='text/javascript' src='../../wp-content/themes/Divi/core/admin/js/common438e.js?ver=4.14.9'
+<!-- 	<script type='text/javascript' src='wp-content/themes/Divi/core/admin/js/common438e.js?ver=4.14.9'
 		id='et-core-common-js'></script> -->
 
 
 	<script type='text/javascript'
-		src='../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids438e.js?ver=4.14.9'
+		src='wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids438e.js?ver=4.14.9'
 		id='fitvids-js'></script>
 
 	<script type='text/javascript'
-		src='../../wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile438e.js?ver=4.14.9'
+		src='wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile438e.js?ver=4.14.9'
 		id='jquery-mobile-js'></script>
 
 
@@ -2781,7 +2774,7 @@ style.min6dcf
 		div.et_pb_section.et_pb_section_7 {
 			background-size: contain;
 			background-position: bottom center;
-			background-image: url(../../wp-content/uploads/2018/11/software-22.png) !important
+			background-image: url(wp-content/uploads/2018/11/software-22.png) !important
 		}
 
 		.et_pb_section_7.et_pb_section {
