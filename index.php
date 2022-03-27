@@ -296,22 +296,6 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
-	<!-- <script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.elegantthemes.com/layouts/#website","url":"https://www.elegantthemes.com/layouts/","name":"Elegant Themes","description":"Free Divi Layouts &amp; Layout Packs Designed by Elegant Themes.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.elegantthemes.com/layouts/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#webpage","url":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo","name":"Digital Product Landing - Elegant Themes","isPartOf":{"@id":"https://www.elegantthemes.com/layouts/#website"},"datePublished":"2018-11-30T03:23:55+00:00","dateModified":"2020-02-20T18:47:31+00:00","breadcrumb":{"@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo"]}]},{"@type":"BreadcrumbList","@id":"https://www.elegantthemes.com/layouts/technology/digital-product-landing-page/live-demo#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.elegantthemes.com/layouts"},{"@type":"ListItem","position":2,"name":"Digital Product Landing"}]}]}</script>
- -->
-	
-<!--  <link rel="alternate" type="application/rss+xml" title="Elegant Themes &raquo; Feed"
-		href="https://www.elegantthemes.com/layouts/feed" />
-	<link rel="alternate" type="application/rss+xml" title="Elegant Themes &raquo; Comments Feed"
-		href="https://www.elegantthemes.com/layouts/comments/feed" />
-	<meta content="Divi v.4.14.9" name="generator" />
-	<link rel='stylesheet' id='wc-blocks-vendors-style-css'
-		href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-stylee1b2.css?ver=6.9.0'
-		type='text/css' media='all' />
-	<link rel='stylesheet' id='wc-blocks-style-css'
-		href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-stylee1b2.css?ver=6.9.0'
-		type='text/css' media='all' /> -->
-
 	<style id='global-styles-inline-css' type='text/css'>
 		body {
 			--wp--preset--color--black: #000000;
@@ -561,21 +545,6 @@
 		}
 	</style>
 
-<!-- 	<link rel='stylesheet' id='woocommerce-layout-css'
-		href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b30.css?ver=6.3.1' type='text/css'
-		media='all' />
-	<link rel='stylesheet' id='woocommerce-smallscreen-css'
-		href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b30.css?ver=6.3.1' type='text/css'
-		media='only screen and (max-width: 768px)' /> -->
-<!-- 	<link rel='stylesheet' id='woocommerce-general-css'
-		href='wp-content/plugins/woocommerce/assets/css/woocommerce9b30.css?ver=6.3.1' type='text/css'
-		media='all' />
-	<style id='woocommerce-inline-inline-css' type='text/css'>
-		.woocommerce form .form-row .required {
-			visibility: visible;
-		}
-	</style> -->
-
 	<link rel='stylesheet' id='divi-style-css' href='wp-content/themes/Divi/style-static.min438e.css?ver=4.14.9'
 		type='text/css' media='all' />
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
@@ -583,41 +552,9 @@
 	<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2'
 		id='jquery-migrate-js'></script>
 
-	<!-- <link rel="https://api.w.org/" href="https://www.elegantthemes.com/layouts/wp-json/" /> -->
-	<!-- <link rel="alternate" type="application/json"
-		href="https://www.elegantthemes.com/layouts/wp-json/wp/v2/pages/216787" /> -->
-<!-- 	<link rel="EditURI" type="application/rsd+xml" title="RSD"
-		href="https://www.elegantthemes.com/layouts/xmlrpc.php?rsd" /> -->
-<!-- 	<link rel="wlwmanifest" type="application/wlwmanifest+xml"
-		href="https://www.elegantthemes.com/layouts/wp-includes/wlwmanifest.xml" /> -->
-<!-- 	<meta name="generator" content="WordPress 5.9.2" />
-	<meta name="generator" content="WooCommerce 6.3.1" /> -->
-
-	<!-- HASTA AQUI COMMIT 1 DE BORRADO DE LINKS -->
-
-<!-- 	<link rel='shortlink' href='https://www.elegantthemes.com/layouts/?p=216787' />
-	<link rel="alternate" type="application/json+oembed"
-		href="https://www.elegantthemes.com/layouts/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elegantthemes.com%2Flayouts%2Ftechnology%2Fdigital-product-landing-page%2Flive-demo" /> -->
-
-	<!-- <link rel="alternate" type="text/xml+oembed"
-		href="https://www.elegantthemes.com/layouts/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.elegantthemes.com%2Flayouts%2Ftechnology%2Fdigital-product-landing-page%2Flive-demo&amp;format=xml" /> -->
-	
-	<!-- HASTA AQUI COMMIT PARTE 2 DE BORRADO ENLACES -->	
-
-<!-- 	<noscript>
-		<style>
-			.woocommerce-product-gallery {
-				opacity: 1 !important;
-			}
-		</style>
-	</noscript> -->
-
 	<link rel="icon" href="wp-content/uploads/2017/12/logo.png" sizes="32x32" />
 	<link rel="icon" href="wp-content/uploads/2017/12/logo.png" sizes="192x192" />
 	<link rel="apple-touch-icon" href="wp-content/uploads/2017/12/logo.png" />
-
-	<!-- <meta name="msapplication-TileImage"
-		content="https://www.elegantthemes.com/layouts/wp-content/uploads/2017/12/logo.png" /> -->
 
 	<style id="et-core-unified-216787-cached-inline-styles">
 		.et_header_style_centered .mobile_nav .select_page,
