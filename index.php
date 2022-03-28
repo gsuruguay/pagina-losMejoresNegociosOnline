@@ -779,13 +779,13 @@
 											<div
 												class="et_pb_module et_pb_text et_pb_text_0 et_animated  et_pb_text_align_center et_pb_bg_layout_dark">
 												<div class="et_pb_text_inner">
-													<h1>Tener tu propia Web nunca fue tan fácil</h1>
+													<h1>Tener presencia digital nunca fue tan fácil</h1>
 												</div>
 											</div>
 											<div
 												class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_dark">
 												<div class="et_pb_text_inner">
-													<p>Coloca en un solo lugar la información principal de tu negocio y comparte con tus prospectos sin límites!  Trabajamos de manera personalizada, plasmamos tus ideas y las convertimos en realidad.</p>
+													<p>Coloca en un solo lugar la información principal de tu negocio y comparte con tus prospectos sin límites! Trabajamos de manera personalizada, plasmamos tus ideas y las convertimos en realidad.</p>
 												</div>
 											</div>
 											<div
@@ -909,9 +909,9 @@
 																class="et-waypoint et_pb_animation_off et_pb_animation_off_tablet et_pb_animation_off_phone wp-image-216766" /></span>
 													</div>
 													<div class="et_pb_blurb_container">
-														<h4 class="et_pb_module_header"><span>Diseños adaptables</span></h4>
+														<h4 class="et_pb_module_header"><span>Tienda Online</span></h4>
 														<div class="et_pb_blurb_description">
-															<p>Una buena experiencia de usuario mejora la imagen de marca y aumenta la tasa de rebote en un sitio web. Además, potencia la interacción, la suscripción a boletines y, en el caso de los sitios de comercio electrónico, también las ventas.</p>
+															<p>Una tienda online está abierta 24 horas al día los 365 días del año. De esa forma no atas al cliente a que te visite en tu horario de apertura. Tus clientes podrán acceder a tus productos/servicios desde cualquier dispositivo. Tener una tienda en línea te ayuda a visibilizar tu marca, mientras más personas te conozcan aumentará el número de tus clientes potenciales. </p>
 														</div>
 													</div>
 												</div>
@@ -1236,6 +1236,9 @@
 										</div>
 									</div>
 								</div>
+
+								<!-- SECCION TESTIMONIOS --> 
+								<!-- 
 								<div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular">
 									<div class="et_pb_row et_pb_row_12 et_pb_gutters2">
 										<div
@@ -1330,6 +1333,9 @@
 										</div>
 									</div>
 								</div>
+								-->
+
+								<!-- SECCION RESPONSIVE -->
 								<div class="et_pb_section et_pb_section_7 et_pb_with_background et_section_regular">
 									<div class="et_pb_row et_pb_row_15">
 										<div
@@ -1382,20 +1388,23 @@
 										</div>
 									</div>
 								</div>
+
+								<!-- SECCION PLANES -->
 								<div class="et_pb_section et_pb_section_9 et_hover_enabled et_section_regular">
 									<div class="et_pb_row et_pb_row_18 et_hover_enabled">
+
 										<div
-											class="et_pb_column et_pb_column_1_3 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough">
+											class="et_pb_column et_pb_column_1_4 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough">
 											<div
 												class="et_pb_with_border et_pb_module et_pb_pricing_tables_0 et_animated et_pb_pricing clearfix et_pb_pricing_1 et_pb_no_featured_in_first_row et_pb_pricing_no_bullet">
 												<div class="et_pb_pricing_table_wrap">
 													<div class="et_pb_pricing_table et_pb_pricing_table_0">
 														<div class="et_pb_pricing_heading">
-															<h2 class="et_pb_pricing_title">Un sitio</h2>
+															<h2 class="et_pb_pricing_title">PLAN</h2>
 														</div>
 														<div class="et_pb_pricing_content_top">
 															<span
-															class="et_pb_sum" style="font-size: 2rem;">PLAN TARJETA DIGITAL
+															class="et_pb_sum" style="font-size: 2rem;">TARJETA DIGITAL
 															</span>
 														</div>
 														<div class="et_pb_pricing_content">
@@ -1418,19 +1427,20 @@
 												</div>
 											</div>
 										</div>
+
 										<div
-											class="et_pb_column et_pb_column_1_3 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough">
+											class="et_pb_column et_pb_column_1_4 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough">
 											<div
 												class="et_pb_with_border et_pb_module et_pb_pricing_tables_1 et_animated et_pb_pricing clearfix et_pb_pricing_1 et_pb_no_featured_in_first_row et_pb_pricing_no_bullet">
 												<div class="et_pb_pricing_table_wrap">
 													<div class="et_pb_pricing_table et_pb_pricing_table_1">
 														<div class="et_pb_pricing_heading">
-															<h2 class="et_pb_pricing_title">Un sitio</h2>
+															<h2 class="et_pb_pricing_title">PLAN</h2>
 															<!-- <span class="et_pb_best_value">Most Popular</span> -->
 														</div>
 														<div class="et_pb_pricing_content_top">
 															<span
-															class="et_pb_sum" style="font-size: 2rem;">PLAN EMPRESA
+															class="et_pb_sum" style="font-size: 2rem;">EMPRESA
 															</span>
 														</div>
 														<div class="et_pb_pricing_content">
@@ -1452,18 +1462,21 @@
 												</div>
 											</div>
 										</div>
+										
 										<div
-											class="et_pb_column et_pb_column_1_3 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough et-last-child">
+											class="et_pb_column et_pb_column_1_4 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough ">
+										<!-- <div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough et-last-child"> -->
 											<div
 												class="et_pb_with_border et_pb_module et_pb_pricing_tables_2 et_animated et_pb_pricing clearfix et_pb_pricing_1 et_pb_no_featured_in_first_row et_pb_pricing_no_bullet">
 												<div class="et_pb_pricing_table_wrap">
 													<div class="et_pb_pricing_table et_pb_pricing_table_2">
 														<div class="et_pb_pricing_heading">
-															<h2 class="et_pb_pricing_title">Múltiples sitios</h2>
+															<h2 class="et_pb_pricing_title">PLAN</h2>
 														</div>
 														<div class="et_pb_pricing_content_top">
 																<span
-																	class="et_pb_sum" style="font-size: 2rem;">PLAN NETWORKER
+																	class="et_pb_sum" style="font-size: 2rem;">NETWORKER
 																</span>
 														</div>
 														<div class="et_pb_pricing_content">
@@ -1482,6 +1495,44 @@
 												</div>
 											</div>
 										</div>
+
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough et-last-child">
+											<div
+												class="et_pb_with_border et_pb_module et_pb_pricing_tables_1 et_animated et_pb_pricing clearfix et_pb_pricing_1 et_pb_no_featured_in_first_row et_pb_pricing_no_bullet">
+												<div class="et_pb_pricing_table_wrap">
+													<div class="et_pb_pricing_table et_pb_pricing_table_1">
+														<div class="et_pb_pricing_heading">
+															<h2 class="et_pb_pricing_title">PLAN</h2>
+															<!-- <span class="et_pb_best_value">Most Popular</span> -->
+														</div>
+														<div class="et_pb_pricing_content_top">
+															<span
+															class="et_pb_sum" style="font-size: 2rem;">ECOMMERCE
+															</span>
+														</div>
+														<div class="et_pb_pricing_content">
+															<ul class="et_pb_pricing">
+																<li><span>Diseño comercio electrónico</span></li>
+																<li><span>Diseño adaptable</span></li>
+																<li><span>Diseño interactivo</span></li>
+																<li><span>Menú de navegación</span></li>
+																<li><span>Videos incrustados</span></li>
+																<li><span>Múltiples secciones</span></li>
+																<li><span>Galeria de imágenes o productos</span></li>
+																<li><span>Formulario de contacto</span></li>
+																<li><span>Enlaces a RRSS</span></li>
+																<!-- <li class="et_pb_not_available"><span>Pellentesque in
+																		ipsum id</span></li> -->
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										
+
 									</div>
 								</div>
 
